@@ -9,10 +9,9 @@ export function registerUser(name, email, tapCode) {
     tapCode
   });
 }
-
 export function loginUser(email, tapCode) {
-  return axios.post(`${API_URL}/login`, {
-    email, 
-    tapCode
-  });
+    return axios.post(`${API_URL}/login`, {
+      email, 
+      tapCode
+    });
 }
