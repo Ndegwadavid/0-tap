@@ -16,8 +16,12 @@ Login works the same way - repeating the tap sequence in the tapping area to aut
 
 ## Some additional security considerations:
 1.Limit number of registration attempts before locking out user
+
 2.Allow user to reset/recover PIN if forgotten
+
 3.Track and alert on suspicious login attempts
+
 4.Encrypt stored user data and tap codes
+
 5.Regularly regenerate the dot grids to prevent pattern memorization
 
