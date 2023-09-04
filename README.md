@@ -1,4 +1,17 @@
-# 0-tap
+## Clone Proposal
+
+![lock](/fingerprint.ico)
+
+
+### **Built with**
+--- 
+![C Language](https://img.icons8.com/color/48/000000/c-programming.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+---
+
+
 A secure passwordless system based on a user-defined multi-tap sequence that can be recalled and reproduced on login.
 
 During registration, the user taps in the designated tapping area on the screen. This could be a blank div or container on the page.
@@ -29,3 +42,9 @@ Login works the same way - repeating the tap sequence in the tapping area to aut
 
 5.Regularly regenerate the dot grids to prevent pattern memorization
 
+This project is full open source and open to additional views and testing from the community.
+
+
+Developed by 
+
+## [David Njoroge](https://github.com/Ndegwadavid)
