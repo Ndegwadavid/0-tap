@@ -4,8 +4,8 @@
     "description": "Passwordless authentication system",
     "main": "server.js",
     "dependencies": {
-        "express": "^4.21.0",
-        "mongoose": "^5.13.14",
+        "express": "^4.21.1",
+        "mongoose": "^6.13.5",
         "cors": "^2.8.5"
     },
     "type":"commonjs"
