@@ -5,7 +5,7 @@
     "main": "server.js",
     "dependencies": {
         "express": "^4.21.2",
-        "mongoose": "^6.13.5",
+        "mongoose": "^8.9.5",
         "cors": "^2.8.5"
     },
     "type":"commonjs"
